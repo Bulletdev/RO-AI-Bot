@@ -256,12 +256,19 @@ ASSIST_OWNER = true
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](LICENSE) para detalhes.
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+<div align="center">
 
 ## ⚠️ Disclaimer
 
 Este projeto é **não-oficial** e não é affiliado com a Gravity Co., Ltd. ou qualquer servidor oficial do Ragnarök Online. Use por sua própria conta e risco.
 
+</div>
 ---
 
 <div align="center">
