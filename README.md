@@ -277,6 +277,6 @@ Este projeto é **não-oficial** e não é affiliado com a Gravity Co., Ltd. ou 
 
 **Feito com ❤️ para a comunidade Ragnarök Online**
 
-[⬆️ Voltar ao Topo](#-ro-ai-bot---advanced-ragnarök-online-ai-system)
+[⬆️ Voltar ao Topo](#-ro-ai-bot---ragnarök-online-ai-system)
 
 </div>
