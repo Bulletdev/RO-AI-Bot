@@ -4,10 +4,10 @@
 
 ![RO-AI-Bot Logo](assets/icons/logo.png)
 
-[![GitHub release](https://img.shields.io/github/release/username/RO-AI-Bot.svg)](https://github.com/username/RO-AI-Bot/releases)
+[![GitHub release](https://img.shields.io/github/release/bulletdev/RO-AI-Bot.svg)](https://github.com/username/RO-AI-Bot/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/username/RO-AI-Bot.svg)](https://github.com/username/RO-AI-Bot/stargazers)
-[![Issues](https://img.shields.io/github/issues/username/RO-AI-Bot.svg)](https://github.com/username/RO-AI-Bot/issues)
+[![Stars](https://img.shields.io/github/stars/bulletdev/RO-AI-Bot.svg)](https://github.com/username/RO-AI-Bot/stargazers)
+[![Issues](https://img.shields.io/github/issues/bulletdev/RO-AI-Bot.svg)](https://github.com/username/RO-AI-Bot/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ### 🎮 Sistema de IA Avançado para Homunculus e Assistentes no Ragnarök Online
